@@ -1,5 +1,3 @@
 # GPA Calculator
 
-This is a GPA calculator app I made as a school project for my Mobile Apps Development Module.
-
-The app was made in Flutter and Dart.
+A GPA calculator I made with Flutter as a school project for my Mobile Apps Development module.
